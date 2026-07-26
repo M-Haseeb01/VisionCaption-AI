@@ -72,7 +72,8 @@ http://127.0.0.1:7860
 
 ### Input Image
 
-![Input Image](images/input.png)
+![Input Image](demo_img
+)
 
 
 
