@@ -41,7 +41,7 @@ Generated Image Caption
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/VisionCaption-AI.git
+git clone https://github.com/M-Haseeb01/VisionCaption-AI.git
 
 cd VisionCaption-AI
 
