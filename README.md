@@ -60,11 +60,7 @@ pip install -r requirements.txt
 python image_captioning_app.py
 ```
 
-Open in your browser:
 
-```
-http://127.0.0.1:7860
-```
 
 ---
 
